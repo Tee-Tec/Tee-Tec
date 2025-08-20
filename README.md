@@ -1,8 +1,8 @@
-# Hello, World! I'm Alex 👋
+# Hello, World! I'm Tee-tec 👋
 
-[![Website](https://img.shields.io/badge/Portfolio-YourWebsite.com-blue?style=for-the-badge)](https://yourwebsite.com)
+[![Website](https://img.shields.io/badge/Portfolio-YourWebsite.com-blue?style=for-the-badge)](https://pazrem.co.ke)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+
 
 ### 👨‍💻 About Me
 
@@ -23,6 +23,6 @@ I'm a **Full-Stack Developer** with a love for creating elegant, efficient, and 
 
 ### 🌟 My GitHub
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Tee-Tec&theme=radical)](https://git.io/streak-stats)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=1a1b27&color=be90f2&line=7d40b3&point=fff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tee-Tec&bg_color=1a1b27&color=be90f2&line=7d40b3&point=fff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
