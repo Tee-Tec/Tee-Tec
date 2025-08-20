@@ -1,29 +1,28 @@
-### Hi there, I'm [Your Name] 👋
+# Hello, World! I'm Alex 👋
 
-**I'm a [Your Title, e.g., Frontend Developer, DevOps Engineer, CS Student] passionate about [Your Interest, e.g., building scalable web apps, cloud infrastructure, open source].**
+[![Website](https://img.shields.io/badge/Portfolio-YourWebsite.com-blue?style=for-the-badge)](https://yourwebsite.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 
-- 🔭 I’m currently working on **[@YourProject or a brief description]**
-- 🌱 I’m currently learning **Go and Kubernetes**
-- 👯 I’m looking to collaborate on **open-source projects related to developer tools**
-- 💬 Ask me about **React, TypeScript, and Python**
-- 📫 How to reach me: **your.email@domain.com** or [LinkedIn](https://linkedin.com/in/yourprofile)
-- ⚡ Fun fact: **I once automated my entire morning coffee routine with a Raspberry Pi!**
+### 👨‍💻 About Me
 
-### 🛠️ Tech Stack
+I'm a **Full-Stack Developer** with a love for creating elegant, efficient, and accessible digital experiences. I believe in the power of code to solve real-world problems.
 
-**Languages & Frameworks:**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- 🚀 Currently building the future of e-commerce at **Acme Corp**.
+- 📚 Learning **Rust** and diving deeper into **System Design**.
+- 🎯 2024 Goals: Contribute more to open source and launch my SaaS side project.
 
-**Tools & Platforms:**  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+### 💻 My Tech Arsenal
 
-### 📈 GitHub Stats
+| Category        | Technologies                                                                                                                              |
+|-----------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| **Frontend**    | React, Next.js, TypeScript, Tailwind CSS, Redux Toolkit, Storybook                                                                        |
+| **Backend**     | Node.js, Express, Python, Django, PostgreSQL, MongoDB, REST & GraphQL                                                                     |
+| **DevOps & Cloud** | Docker, AWS (EC2, S3, RDS), Vercel, Netlify, GitHub Actions                                                                               |
+| **Tools**       | Git, VS Code, Figma, Postman, Jira                                                                                                        |
 
-[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+### 🌟 My GitHub
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=radical)](https://git.io/streak-stats)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=1a1b27&color=be90f2&line=7d40b3&point=fff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
