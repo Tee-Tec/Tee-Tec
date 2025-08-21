@@ -8,9 +8,9 @@
 
 I'm a **Full-Stack Developer** with a love for creating elegant, efficient, and accessible digital experiences. I believe in the power of code to solve real-world problems.
 
-- 🚀 Currently building the future of e-commerce at **Acme Corp**.
+- 🚀 Currently building the future of e-commerce at **Pazrem Limited**.
 - 📚 Learning **Rust** and diving deeper into **System Design**.
-- 🎯 2024 Goals: Contribute more to open source and launch my SaaS side project.
+- 🎯 2025 Goals: Contribute more to open source and launch my SaaS side project.
 
 ### 💻 My Tech Arsenal
 
