@@ -1,4 +1,4 @@
-# Hello, World! I'm Patrick 👋
+# Hello, World! I'm Teezane 👋
 
 [![Website](https://img.shields.io/badge/Portfolio-YourWebsite.com-blue?style=for-the-badge)](https://pazrem.co.ke)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
